@@ -43,8 +43,33 @@ Implementar pelo menos dois dos seguintes elementos:
 - Inimigos simples com comportamento básico.
 - Mecanismo de habilidade especial para o personagem.
 - Sistemas de partículas para efeitos visuais.
-
+  
+------
 ##  INSTRUÇÕES DE EXECUÇÃO
+------
+### Instruções de Execução do Jogo
+- Sistema operacional: Windows 10 ou superior / Linux / macOS
+- Processador: Dual-core 2.0 GHz
+- Memória RAM: 2 GB
+- Armazenamento: 200 MB livres
+- Placa gráfica: Compatível com OpenGL 3.3+
+
+ ## Instalação (caso necessário)
+Se o jogo estiver compactado em .zip:
+- Extraia o conteúdo usando WinRAR, 7-Zip ou ferramenta similar.
+- Escolha a pasta de sua preferência para manter os arquivos.
+
+## Executando o Jogo (PC)
+- Navegue até a pasta do jogo.
+- Execute o arquivo:
+NomeDoJogo.exe (Windows)
+NomeDoJogo.x86_64 (Linux)
+NomeDoJogo.app (macOS)
+
+## Se o jogo não abrir:
+
+Verifique se você tem permissões de execução (Linux/macOS).
+Atualize seus drivers de vídeo.
 
 ##  CONTROLES DO JOGO
 
