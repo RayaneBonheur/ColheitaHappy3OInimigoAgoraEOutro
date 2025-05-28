@@ -7,7 +7,7 @@ A missão de integrar os conceitos fundamentais de desenvolvimento 3D: personage
 
 ------
 
-## ESPOSO
+## OBJETIVO
 
 Desenvolver uma experiência interativa 3D que demonstre os princípios de criação de jogos, aplicando os conceitos estudados em um ambiente tridimensional.
 
