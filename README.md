@@ -45,8 +45,9 @@ Implementar pelo menos dois dos seguintes elementos:
 - Sistemas de partículas para efeitos visuais.
   
 ------
+
 ##  INSTRUÇÕES DE EXECUÇÃO
-------
+
 ### Instruções de Execução do Jogo
 - Sistema operacional: Windows 10 ou superior / Linux / macOS
 - Processador: Dual-core 2.0 GHz
@@ -71,27 +72,31 @@ NomeDoJogo.app (macOS)
 Verifique se você tem permissões de execução (Linux/macOS).
 Atualize seus drivers de vídeo.
 
+------
+
 ##  CONTROLES DO JOGO
+Pode ser utilizado WASD ou Setas para movimentação do personagem, e IJKL para movimentação da camera.
 
-| Critérios | Descrição | Nota 
+| Funções | Teclas (Primárias) | Teclas (Alternativas)
 | --- | --- | --- |
-| `Câmera` | Câmera funcional e bem ajustada à cena ou ao jogador. | 15 pontos |
-| `Física` | Uso correto da física (ex.: gravidade, movimento realista).| 15 pontos |
-| `Interface de Controle` | Controles responsivos e saída visível (ex.: HUD com pontuação ou status). | 15 pontos |
-| `Iluminação` | Presença de iluminação funcional e visível no cenário. | 10 pontos |
-| `Textura` | Aplicação de texturas em pelo menos um elemento do jogo. | 10 pontos |
-| `Colisão` | Detecção de colisão implementada e funcional. | 15 pontos |
-| `Interação` | Interação simples e funcional no jogo (ex.: coletar item, ativar algo). | 15 pontos |
-| `Apresentação Geral` | Jogo executável, organização e clareza nas instruções de uso. | 10 pontos |
-| `Total` |       | 100 pontos |
-
+| `Mover para cima` | W | ↑ |
+| `Mover para baixo` | S | ↓ |
+| `Mover para esquerda` | A | ← |
+| `Mover para direita` | D | 	→ |
+| `Câmera para cima` | I | - |
+| `Câmera para baixo` | K | - |
+| `Câmera para esquerda` | J | - |
+| `Câmera para direita` | L | - |
 
 ------
 
 ##  RECURSOS UTILIZADOS (CRÉDITOS)
+Kenny plataformer kit, anime skybox, godot4 3D characters
 
 ------
+
 ##  FUNCIONALIDADES IMPLEMENTADAS
+Luz direcional, Colisão nos corpos e nos objetos estaticos, Objetos coletaveis, HUD funcional ( implementado e integrado com os objetos coletaveis ), script de movimentação do personagem e dos inimigos com gravidade aplicada, world environment para criação e customização de mundo.
 
 ------
 
